@@ -1,6 +1,6 @@
 import React from 'react';
-import '/workspace/react-hello/src/js/App.css';
-import TodoList from '/workspace/react-hello/src/js/component/TodoList.jsx';
+import '../../js/App.css';
+import TodoList from '../component/TodoList.jsx'
 
 function App() {
   return (

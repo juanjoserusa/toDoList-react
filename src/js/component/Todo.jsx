@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import TodoForm from '/workspace/react-hello/src/js/component/TodoForm.jsx';
+import TodoForm from '../component/TodoForm.jsx';
 import { RiCloseCircleLine } from 'react-icons/ri';
 import { TiEdit } from 'react-icons/ti';
 
